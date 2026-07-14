@@ -124,3 +124,17 @@ playwright install chromium
 4. 同一个视频可能有多个清晰度（f10104 > f10102 > f10004 > f10002）
 5. 自动选最高清，用 Range 分片下载（每片 1MB，失败自动重试）
 6. 输出文件名：`YYYYMMDD_标题.mp4`，多视频加序号
+
+---
+
+## 开源协议
+
+本项目基于 MIT 协议开源 - 详见 [LICENSE](LICENSE) 文件。
+
+---
+
+## 联系
+
+有问题或建议欢迎联系：
+- 微信：HgAiAgent（扫码添加，拉你进交流群）
+- 邮箱：[szlihui801@gmail.com](mailto:szlihui801@gmail.com)
